@@ -1,0 +1,9 @@
+hello
+
+absolute path
+relative path
+
+fileopen = open("./demo.txt", "r")
+fileopen.write("acb\ndef")
+
+

@@ -1,0 +1,87 @@
+Các nội dung cơ bản
+- Cài đặt và sử dụng/dev tools
+- Nhập xuất
+    -- Từ bàn phím
+    -- Từ file
+    -- Ra màn hình
+    -- Ra file
+- Kiểu dữ liệu
+    -- Kiểu nguyên thuỷ: 1D, 2D, ..., nD
+        --- Kiểu nhị phân
+        --- Kiểu biểu diễn số
+        --- Kiểu biểu diễn chữ/ký tự
+        --- Kiểu biểu diễn điều kiện
+        --- Kiểu danh sách phần tử
+    -- Kiểu dữ liệu phức tạp
+        --- Queue
+        --- Stack
+    -- Kiểu tự định nghĩa
+        --- typedef (kiểu đơn)
+        --- struct (kiểu phức)
+        --- module (nhóm chức năng)
+        --- class (lớp đối tượng
+    -- Ghi chú về phạm vi biến
+- Thao tác với dữ liệu
+    -- Các cấu trúc thao tác có sẵn
+       --- Vòng lặp
+       --- Duyệt
+       --- Điều kiện
+       --- Comprehension
+    -- Thao tác với văn bản
+    -- Thao tác toán học
+    -- Thao tác tự định nghĩa (function, method)
+
+nội dung nâng cao thường thấy
+- thao tác với hệ thống
+    -- Chuẩn bị môi trường độc lập cho ứng dụng
+    -- Đọc biến đầu vào/môi trường
+    -- Kiểm soát file
+    -- Kiểm soát process
+    -- Vào ra database
+    -- Điều khiển browser
+    -- Điều khiển ảo hoá (VM)
+    -- Các IO nâng cao (socket, REST api, MQ, stream, SSH, telnet, ...)
+    -- Thao tác với mạng
+    -- Tích hợp vào hệ điều hành (service Windows/Linux)
+- Thiết kế chương trình
+    -- Tổ chức module/đóng gói package
+    -- Đa luồng, đa tiến trình
+    -- OOP
+    -- Mô hình worker
+    -- Client server, xây dựng ứng dụng web
+    -- Peer to peer
+    -- Giao diện đồ hoạ
+- Nội dung khác
+    -- Thiết kế test ứng dụng
+    -- Xử lý kiểu dữ liệu cao cấp
+        --- Kiểm soát encode dữ liệu
+        --- Video
+        --- Ảnh
+        --- Audio
+        --- Hypertext
+        --- Thiết kế file định dạng đặc biệt (excel, pdf, ...)
+    -- Mã hoá
+    -- Băm
+    -- Nén và giải nén
+    -- Template/collection
+    -- Thao tác với các dịch vụ/ứng dụng nổi tiếng
+        --- Email
+        --- ESB
+    -- Thực thi từ xa (RPC, DCOM, CORBA, ... )
+    -- Debug bằng công cụ chuyên dụng
+    -- Xuất log chương trình
+    -- Kết hợp ngôn ngữ khác
+
+1 số nội dung học thuật cần quan tâm
+- Xử lý thời gian (Date)
+- Thứ tự phép toán
+- Đại số Bool
+- Vòng lặp và Đệ quy
+- Thuật toán tìm kiếm
+- Thuật toán sắp xếp
+- Mảng, mảng nhiều chiều, danh sách liên kết
+- Cây và duyệt cây
+- Regex
+- Ngoại lệ exception và xử lý ngoại lệ
+- Design pattern
+- Tương tranh và đồng bộ (Lock)
