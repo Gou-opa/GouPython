@@ -12,7 +12,7 @@ print("Hello you guys", "ohaodo")
 a = 10
 b = 80
 print("Hello {} \n{} , {}".format("cau1", "cau2", "cau3"))
-
+bool(1)
 int
 uint32
 uint64
